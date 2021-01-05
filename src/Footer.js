@@ -15,10 +15,10 @@ function Footer() {
             <div className="footer__left">
                 <img
                     className="footer__albumLogo"
-                    src = "https://upload.wikimedia.org/wikipedia/en/5/54/Nirvana_mtv_unplugged_in_new_york.png"
+                    src = "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
                     alt="" />
                 <div className = "footer__songInfo" > 
-                    <h4>a song</h4>
+                    <h4>Lithium</h4>
                     <p>Nirvana</p>
                 </div>
             </div>
